@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository was created after my post about completing a project with 100% AI-generated code went viral, reaching 500,000 views in 24 hours across [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1jj2ucr/i_completed_a_project_with_100_aigenerated_code/), [r/cursor](https://www.reddit.com/r/cursor/comments/1jj2uan/i_completed_a_project_with_100_aigenerated_code/), [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/comments/1jj0q2p/i_completed_a_project_with_100_aigenerated_code/)
+This repository was created after my post about completing a project with 100% AI-generated code went viral, reaching 500,000 views in 24 hours & 1,000,000 views in 100 hours! 🥳 across [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1jj2ucr/i_completed_a_project_with_100_aigenerated_code/), [r/cursor](https://www.reddit.com/r/cursor/comments/1jj2uan/i_completed_a_project_with_100_aigenerated_code/), [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/comments/1jj0q2p/i_completed_a_project_with_100_aigenerated_code/)
 
 This repository contains a collection of practical lessons learned from building projects with AI assistance. These insights come from real-world experience using tools like Cursor, Windsurf, Cline, and Claude to develop software projects.
 
